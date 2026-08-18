@@ -68,8 +68,8 @@
   function createBanner() {
     var isGerman = (document.documentElement.lang || '').toLowerCase().indexOf('de') === 0;
     var copy = isGerman ? {
-      title: 'Ihre Privatsphäre',
-      text: 'Wir verwenden optionale Analyse-Cookies von Google Analytics, um zu verstehen, wie unsere Website genutzt wird. Sie können zustimmen oder ablehnen.',
+      title: 'Deine Privatsphäre',
+      text: 'Wir verwenden optionale Google-Analytics-Cookies, um zu verstehen, wie unsere Website genutzt wird. Du kannst sie akzeptieren oder ablehnen.',
       accept: 'Analyse akzeptieren',
       reject: 'Nur notwendige Cookies',
       link: 'Mehr erfahren',

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://weltencommunication.ch/de/</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://weltencommunication.ch/de/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://weltencommunication.ch/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://weltencommunication.ch/de/"/>
+    <loc>https://www.weltencommunication.ch/de/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.weltencommunication.ch/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.weltencommunication.ch/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.weltencommunication.ch/de/"/>
   </url>
   <url>
-    <loc>https://weltencommunication.ch/en/</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://weltencommunication.ch/de/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://weltencommunication.ch/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://weltencommunication.ch/de/"/>
+    <loc>https://www.weltencommunication.ch/en/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.weltencommunication.ch/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.weltencommunication.ch/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.weltencommunication.ch/de/"/>
   </url>
   <url>
-    <loc>https://weltencommunication.ch/de/datenschutz/</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://weltencommunication.ch/de/datenschutz/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://weltencommunication.ch/en/privacy/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://weltencommunication.ch/de/datenschutz/"/>
+    <loc>https://www.weltencommunication.ch/de/datenschutz/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.weltencommunication.ch/de/datenschutz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.weltencommunication.ch/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.weltencommunication.ch/de/datenschutz/"/>
   </url>
   <url>
-    <loc>https://weltencommunication.ch/en/privacy/</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://weltencommunication.ch/de/datenschutz/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://weltencommunication.ch/en/privacy/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://weltencommunication.ch/de/datenschutz/"/>
+    <loc>https://www.weltencommunication.ch/en/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.weltencommunication.ch/de/datenschutz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.weltencommunication.ch/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.weltencommunication.ch/de/datenschutz/"/>
   </url>
   <url>
-    <loc>https://weltencommunication.ch/de/impressum/</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://weltencommunication.ch/de/impressum/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://weltencommunication.ch/en/legal-notice/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://weltencommunication.ch/de/impressum/"/>
+    <loc>https://www.weltencommunication.ch/de/impressum/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.weltencommunication.ch/de/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.weltencommunication.ch/en/legal-notice/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.weltencommunication.ch/de/impressum/"/>
   </url>
   <url>
-    <loc>https://weltencommunication.ch/en/legal-notice/</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://weltencommunication.ch/de/impressum/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://weltencommunication.ch/en/legal-notice/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://weltencommunication.ch/de/impressum/"/>
+    <loc>https://www.weltencommunication.ch/en/legal-notice/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.weltencommunication.ch/de/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.weltencommunication.ch/en/legal-notice/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.weltencommunication.ch/de/impressum/"/>
   </url>
 </urlset>

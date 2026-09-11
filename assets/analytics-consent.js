@@ -68,17 +68,17 @@
   function createBanner() {
     var isGerman = (document.documentElement.lang || '').toLowerCase().indexOf('de') === 0;
     var copy = isGerman ? {
-      title: 'Deine Privatsphäre',
-      text: 'Wir verwenden optionale Google-Analytics-Cookies, um zu verstehen, wie unsere Website genutzt wird. Du kannst sie akzeptieren oder ablehnen.',
-      accept: 'Analyse akzeptieren',
+      title: 'Verwendung von Cookies',
+      text: 'Wir verwenden notwendige Cookies, damit unsere Website funktioniert. Mit deiner Zustimmung helfen uns optionale Analyse-Cookies, das Nutzungserlebnis zu verstehen und zu verbessern.',
+      accept: 'Alle akzeptieren',
       reject: 'Nur notwendige Cookies',
       link: 'Mehr erfahren',
       privacy: '/de/datenschutz/#cookies',
       label: 'Cookie-Einstellungen'
     } : {
-      title: 'Your privacy',
-      text: 'We use optional Google Analytics cookies to understand how our website is used. You can accept or decline them.',
-      accept: 'Accept analytics',
+      title: 'Use of cookies',
+      text: 'We use necessary cookies to make our website work. With your consent, optional analytics cookies help us understand and improve the user experience.',
+      accept: 'Accept all',
       reject: 'Necessary cookies only',
       link: 'Learn more',
       privacy: '/en/privacy/#cookies',
